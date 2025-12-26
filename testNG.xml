@@ -6,6 +6,8 @@
                     <include name="openBrowserWithHeadlessMode"/>
                 </methods>
             </class>
+            <class name="herokuApp.LoginTest">
+            </class>
         </classes>
     </test>
 </suite>
